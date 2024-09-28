@@ -1,0 +1,14 @@
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\CSharpProjects\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
